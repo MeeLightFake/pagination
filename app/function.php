@@ -1,10 +1,10 @@
 <?php
 
 $connection = new mysqli(
-    'localhost',
-    'meelight',
-    '282501mr',
-    'printshop'
+    'host',
+    'your_username',
+    'your_password',
+    'your_database'
 );
 
 $maxForPage = 2;
